@@ -7,12 +7,11 @@ y Programacion I](https://algoritmos7540mendez.com.ar).(FIUBA)*
 
 *Estos ejercicios se ordenan por temas a medida que avanza la cursada. Los temas son:*
    
-   
-   - 1) [Matrices](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/matrices) 
-   - 2) [procedimientos y funciones](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/procedimientos%20y%20funciones)
-   - 3) [registros](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/registros)
-   - 4) [strings](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/strings)
-   - 5) [vectores](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/vectores)
+   - 1) [procedimientos y funciones](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/procedimientos%20y%20funciones)
+   - 2) [vectores](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/vectores)
+   - 3) [Matrices](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/matrices) 
+   - 4) [registros](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/registros)
+   - 5) [strings](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/strings)
    - 6) [vectores y matrices de registros](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/vectores%20y%20matrices%20de%20registros)
    
     
@@ -25,4 +24,3 @@ mas funciones o mejoras. Estos Tps consistieron en:*
     el uso correcto de estructuras de control, modularizacion y buenas practicas de programacion.
     
    2.  👻 tp2: [Sombra de Mac:](https://github.com/KarlaDuque9/algo1/tree/master/trabajo_practico_algo1)  desarollo y funcionamiento del juego "La Sombra de Mac" 
-   
