@@ -25,3 +25,4 @@ mas funciones o mejoras. Estos Tps consistieron en:*
     el uso correcto de estructuras de control, modularizacion y buenas practicas de programacion.
     
    2.  👻 tp2: [Sombra de Mac:](https://github.com/KarlaDuque9/algo1/tree/master/trabajo_practico_algo1)  desarollo y funcionamiento del juego "La Sombra de Mac" 
+   
