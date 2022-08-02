@@ -7,12 +7,12 @@ y Programacion I](https://algoritmos7540mendez.com.ar).(FIUBA)*
 
 *Estos ejercicios se ordenan por temas a medida que avanza la cursada. Los temas son:*
    
-   - 1) [procedimientos y funciones](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/procedimientos%20y%20funciones)
-   - 2) [vectores](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/vectores)
-   - 3) [Matrices](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/matrices) 
-   - 4) [registros](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/registros)
-   - 5) [strings](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/strings)
-   - 6) [vectores y matrices de registros](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/vectores%20y%20matrices%20de%20registros)
+   - 1) [procedimientos y funciones](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/1.procedimientos%20y%20funciones)
+   - 2) [vectores](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/2.vectores)
+   - 3) [Matrices](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/3.matrices) 
+   - 4) [registros](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/4.registros)
+   - 5) [strings](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/5.strings)
+   - 6) [vectores y matrices de registros](https://github.com/KarlaDuque9/algo1/tree/master/Ejercicios_Algo1/6.vectores%20y%20matrices%20de%20registros)
    
     
 # Trabajos Practicos 🖥️ ✨
